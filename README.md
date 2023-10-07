@@ -10,4 +10,8 @@ from up to bottom from left to right, just replace the _&_ with _{}_
 and u got ur flag after a bit of counting!
 	
 ![poster](./poster.png)
+
+Like the first number is the letter N (the first letter of the flag) from the word FANTASY and so on..
+54 28 50 32 46 21 47(is & but u will change this at the end)
+N  T  R  L  G  C  {..}
 	
